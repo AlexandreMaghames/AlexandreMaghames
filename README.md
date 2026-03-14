@@ -1,4 +1,4 @@
-# 👋 Hi! Welcome to my Github pag
+# 👋 Hi! Welcome to my Github page
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1200&color=A020F0&center=true&vCenter=true&width=700&lines=Forecast+Data+Scientist+%26+Data+Engineer;Machine+Learning+%7C+NLP+%7C+Analytics;Turning+Data+into+Actionable+Insights" />
